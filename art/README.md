@@ -1,5 +1,5 @@
 # Art files
 
 Softwares used:
-* Pixel Edit
+* Pyxel Edit
 * Photoshop
